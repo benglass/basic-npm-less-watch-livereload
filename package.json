@@ -7,12 +7,14 @@
   },
   "scripts": {
     "less": "lessc www/assets/less/main.less www/assets/css/main.css",
-    "watch": "npm-watch"
+    "watch": "npm-watch",
+    "serve": "live-server www"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "less": "^1.7.5",
-    "npm-watch": "0.0.0"
+    "npm-watch": "0.0.0",
+    "live-server": "^0.6.1"
   }
 }

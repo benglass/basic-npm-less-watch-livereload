@@ -26,7 +26,7 @@ to the end of the line when you run them:
 
 ```
 npm run serve&
-npm run watch*
+npm run watch&
 ```
 
 Grunt is a very complicated task runner that requires a ton of configuration.

@@ -1,0 +1,19 @@
+{
+  "name": "bootstrapless",
+  "version": "0.0.0",
+  "authors": [
+    "Ben Glassman <ben@vtdesignworks.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.0"
+  }
+}
